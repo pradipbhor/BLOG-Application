@@ -1,0 +1,20 @@
+{
+  "name": "crud-operation-with-jsonfile",
+  "version": "1.0.0",
+  "description": "A tutorial project on how to create CRUD operations with JSON files",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Uma Victor",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": []
+}
